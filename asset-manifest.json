@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a467f683.chunk.css",
+    "main.js": "/portfolio/static/js/main.7b4b9577.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.7b4b9577.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.911f39c4.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.911f39c4.js.map",
+    "static/js/2.71f4bc9f.chunk.js": "/portfolio/static/js/2.71f4bc9f.chunk.js",
+    "static/js/2.71f4bc9f.chunk.js.map": "/portfolio/static/js/2.71f4bc9f.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.33e04ef33649a3b34b88518f95ceba7e.js": "/portfolio/precache-manifest.33e04ef33649a3b34b88518f95ceba7e.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.a467f683.chunk.css.map": "/portfolio/static/css/main.a467f683.chunk.css.map",
+    "static/js/2.71f4bc9f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.71f4bc9f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portfolio/static/media/backgroud_thequays.168a91b4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.911f39c4.js",
+    "static/js/2.71f4bc9f.chunk.js",
+    "static/css/main.a467f683.chunk.css",
+    "static/js/main.7b4b9577.chunk.js"
+  ]
+}
