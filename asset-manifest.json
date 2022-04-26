@@ -1,23 +1,34 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e1c2612d.chunk.css",
-    "main.js": "/portfolio/static/js/main.5653601f.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.5653601f.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.911f39c4.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.911f39c4.js.map",
-    "static/js/2.efa0dd21.chunk.js": "/portfolio/static/js/2.efa0dd21.chunk.js",
-    "static/js/2.efa0dd21.chunk.js.map": "/portfolio/static/js/2.efa0dd21.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.164ba5a11cb208864e62f49a88b3fad9.js": "/portfolio/precache-manifest.164ba5a11cb208864e62f49a88b3fad9.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.e1c2612d.chunk.css.map": "/portfolio/static/css/main.e1c2612d.chunk.css.map",
-    "static/js/2.efa0dd21.chunk.js.LICENSE.txt": "/portfolio/static/js/2.efa0dd21.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/portfolio/static/media/backgroud_thequays.168a91b4.jpg"
+    "main.css": "/static/css/main.9b252d21.css",
+    "main.js": "/static/js/main.796bb1bb.js",
+    "static/media/backgroud_thequays.jpg": "/static/media/backgroud_thequays.419ed3e6e7f9b0de2e9c.jpg",
+    "static/media/FaceRecognition2.png": "/static/media/FaceRecognition2.156f7c63bdeabfc39566.png",
+    "static/media/RoboFriends.png": "/static/media/RoboFriends.f9892918c9bf0d4e2b57.png",
+    "static/media/postgresql_logo.png": "/static/media/postgresql_logo.db75c4cfc3de042850af.png",
+    "static/media/email_logo.png": "/static/media/email_logo.a7b0720334f4c48e5dc7.png",
+    "static/media/Cookie-Regular.ttf": "/static/media/Cookie-Regular.561be922e1551bfac194.ttf",
+    "static/media/LeckerliOne-Regular.ttf": "/static/media/LeckerliOne-Regular.6ed7d6bdd3fc6a800113.ttf",
+    "static/media/BackgroundGenerator.png": "/static/media/BackgroundGenerator.26d239ba57d6d5861d92.png",
+    "static/media/ShoppingList.png": "/static/media/ShoppingList.6899010d95610a6e69d6.png",
+    "static/media/bootstrap_logo.png": "/static/media/bootstrap_logo.054efa3f3b1e889a5ee2.png",
+    "static/media/redux_logo.png": "/static/media/redux_logo.296b9306ae3e4de348c6.png",
+    "static/media/css3_logo.png": "/static/media/css3_logo.9058bae4ab9598dd2f00.png",
+    "static/media/git_logo.png": "/static/media/git_logo.e5e6f951199fcd4a156b.png",
+    "static/media/favicon.ico": "/static/media/favicon.1c319cfd4ccfa6d75eee.ico",
+    "static/media/html5_logo.png": "/static/media/html5_logo.3de4a8c5d7b413036a90.png",
+    "static/media/js_logo.png": "/static/media/js_logo.f9b5a3bc9bb5205e88b3.png",
+    "static/media/node_logo.svg": "/static/media/node_logo.cf2b4de6f517ce6f0c318e8c6a3ccad3.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.9b252d21.css.map": "/static/css/main.9b252d21.css.map",
+    "main.796bb1bb.js.map": "/static/js/main.796bb1bb.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.911f39c4.js",
-    "static/js/2.efa0dd21.chunk.js",
-    "static/css/main.e1c2612d.chunk.css",
-    "static/js/main.5653601f.chunk.js"
+    "static/css/main.9b252d21.css",
+    "static/js/main.796bb1bb.js"
   ]
 }
